@@ -1,1 +1,1 @@
-##The user enters information about the manga, such as the title, author, genre, and number of volumes. They then enter information about the purchase, such as quantity and total price. The program displays detailed information about the manga and the purchase.
+## The user enters information about the manga, such as the title, author, genre, and number of volumes. They then enter information about the purchase, such as quantity and total price. The program displays detailed information about the manga and the purchase.
